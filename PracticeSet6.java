@@ -112,23 +112,21 @@ public class PracticeSet6 {
         }
         System.out.println("The minimum element in the array is: " + min); // Print the minimum element
 
-        // Question 8.
-        // Write a program to find whether an array is sorted or not.
-        int[] arr1 = {1, 6, 3, 4, 5}; // Original array
-        boolean isSorted = true; // Initialize isSorted to true
-        for (int i = 0; i < arr1.length - 1; i++) {
-            if (arr1[i] > arr1[i + 1]) {
-                isSorted = false; // Set isSorted to false if an element is greater than the next one
-                break; // Exit the loop if the array is not sorted
-            }
-        }
-        if (isSorted) {
-            System.out.println("The array is sorted."); // Print if the array is sorted
-        } else {
-            System.out.println("The array is not sorted."); // Print if the array is not sorted
-        }
-
-
+        // // Question 8.
+        // // Write a program to find whether an array is sorted or not.
+        // int[] arr1 = {1, 2, 3, 4, 5}; // Original array
+        // boolean isSorted = true; // Initialize isSorted to true
+        // for (int i = 0; i < arr1.length - 1; i++) {
+        //     if (arr1[i] > arr1[i + 1]) {
+        //         isSorted = false; // Set isSorted to false if an element is greater than the next one
+        //         break; // Exit the loop if the array is not sorted
+        //     }
+        // }
+        // if (isSorted) {
+        //     System.out.println("The array is sorted."); // Print if the array is sorted
+        // } else {
+        //     System.out.println("The array is not sorted."); // Print if the array is not sorted
+        // }
 
 
     }
