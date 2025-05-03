@@ -1,7 +1,4 @@
 // Class for Question 1
-
-import org.w3c.dom.css.Rect;
-
 class Employee {
     private int salary; // Property to store salary
     private String name; // Property to store name
