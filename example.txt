@@ -1,0 +1,10 @@
+Line 1: Java is a high-level, class-based, object-oriented programming language.
+Line 2: It is designed to have as few implementation dependencies as possible.
+Line 3: Java is widely used for building enterprise-scale applications.
+Line 4: The Java Virtual Machine (JVM) enables platform independence.
+Line 5: Java supports multithreading, making it suitable for concurrent programming.
+Line 6: The language has a rich API and a vast ecosystem of libraries.
+Line 7: Java's syntax is similar to C++ but simpler and more secure.
+Line 8: It is commonly used for Android app development.
+Line 9: Java provides built-in garbage collection to manage memory.
+Line 10: The "Write Once, Run Anywhere" principle is a key feature of Java.

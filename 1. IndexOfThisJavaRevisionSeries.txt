@@ -14,3 +14,8 @@
 13. Practice Set - 13
 14. Practice Set - 14
 15. Collection FrameWork Practice Set - 15
+16. Annotations Practice Set - 16
+17. Lambda Expression Practice Set - 17
+18. Practice Set - 18
+19. Practice Set - 19
+20. Practice Set - 20
